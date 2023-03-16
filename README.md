@@ -1,1 +1,1 @@
-# notlar burada.
+# Notes here.
